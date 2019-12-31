@@ -1,0 +1,14 @@
+
+.board{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  color: white;
+}
+
+.status{
+  color: black;
+  font-size: 1.4em;
+  font-weight: bold;
+}
